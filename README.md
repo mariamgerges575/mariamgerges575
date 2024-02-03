@@ -9,9 +9,9 @@ hello, I am a student at faculty of Engineering ,alexandria university .
 <p align="center">
 
 <a href="https://www.java.com/en/"> <img src="/assets/java.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
-<a href="https://spring.io/">  <img src="/assets/Spring_Framework.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
-<a href="https://www.mysql.com/">  <img src="/assets/Mysql_logo.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
-<a>  <img src="/assets/CSS_and_HTML.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
+<a href="https://spring.io/">  <img src="/assets/Spring_Framework.svg.png" alt="cplusplus" width="100" height="70" style="max-width: 100%;"></a>
+<a href="https://www.mysql.com/">  <img src="/assets/Mysql_logo.png" alt="cplusplus" width="100" height="70" style="max-width: 100%;"></a>
+<a>  <img src="/assets/CSS_and_HTML.svg.png" alt="cplusplus" width="100" height="70" style="max-width: 100%;"></a>
 <a  href="https://www.javascript.com/">  <img src="/assets/JavaScript.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
 <a href="https://www.typescriptlang.org/">  <img src="/assets/Typescript.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
 <a href="https://react.dev/">  <img src="/assets/React.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
@@ -22,7 +22,7 @@ hello, I am a student at faculty of Engineering ,alexandria university .
 <a>  <img src="/assets/c.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
 <a href="https://www.scala-lang.org/">  <img src="/assets/Scala.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
 <a href="https://www.postman.com/">  <img src="/assets/postman-icon.svg" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
-<a href="https://www.atlassian.com/software/jira">  <img src="/assets/Jira_Logo.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
+<a href="https://www.atlassian.com/software/jira">  <img src="/assets/Jira_Logo.svg.png" alt="cplusplus" width="100" height="70" style="max-width: 100%;"></a>
 </p>
 
 
