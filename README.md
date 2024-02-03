@@ -8,8 +8,7 @@ hello, I am a student at faculty of Engineering ,alexandria university .
 ### Languages and Tools:
 <p align="center">
 
-<a href="https://www.java.com/en/"> <img src="![image](https://github.com/mariamgerges575/mariamgerges575/assets/96488115/33f1f15d-abc1-4058-94d5-9a4197c1ef3f)
-" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
+<a href="https://www.java.com/en/"> <img src="/assets/java.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
 <a href="https://spring.io/">  <img src="/assets/Spring_Framework.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
 <a href="https://www.mysql.com/">  <img src="/assets/Mysql_logo.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
 <a>  <img src="/assets/CSS_and_HTML.svg.png" alt="cplusplus" width="70" height="70" style="max-width: 100%;"></a>
