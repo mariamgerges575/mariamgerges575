@@ -7,7 +7,7 @@ hello, I am a student at faculty of Engineering ,alexandria university .
 
 ### Languages and Tools:
 <p align="center">
-<a href="https://www.gnu.org/software/bash/"><img src="/assets.Angular_full_color_logo.svg.png" width="100" height="100"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="/assets/Angular_full_color_logo.svg.png" width="100" height="100"></a>
 <a href="https://www.java.com/en/"> <img src="/assets/java.png" width="100" height="100"></a>
 <a href="https://www.python.org/">  <img src="/assets/Python.svg.png" width="100" height="100"></a>
 
