@@ -6,7 +6,12 @@ hello, I am a student at faculty of Engineering ,alexandria university .
 - System design
 
 ### Languages and Tools:
-![image](https://github.com/mariamgerges575/mariamgerges575/assets/96488115/7b3a6ebe-161d-4ded-90ec-c37b33a50d9d)
+<p align="center">
+<a href="https://www.gnu.org/software/bash/"><img src="/assets.Angular_full_color_logo.svg.png" width="100" height="100"></a>
+<a href="https://www.java.com/en/"> <img src="/assets/java.png" width="100" height="100"></a>
+<a href="https://www.python.org/">  <img src="/assets/Python.svg.png" width="100" height="100"></a>
+
+</p>
 
 
 
