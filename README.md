@@ -13,7 +13,7 @@ hello, I am a student at faculty of Engineering ,alexandria university .
 <a href="https://www.mysql.com/">  <img src="/assets/Mysql_logo.png" width="100" height="100"></a>
 <a>  <img src="/assets/CSS_and_HTML.svg.png" width="100" height="100"></a>
 <a  href="https://www.javascript.com/">  <img src="/assets/JavaScript.png" width="100" height="100"></a>
-<a href="https://www.typescriptlang.org/>  <img src="/assets/Typescript.svg.png" width="100" height="100"></a>
+<a href="https://www.typescriptlang.org/">  <img src="/assets/Typescript.svg.png" width="100" height="100"></a>
 <a href="https://react.dev/">  <img src="/assets/React.svg.png" width="100" height="100"></a>
 <a href="https://angular.io/"><img src="/assets/Angular_full_color_logo.svg.png" width="100" height="100"></a>
 
