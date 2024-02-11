@@ -25,7 +25,7 @@ hello, I am a student at faculty of Engineering ,alexandria university .
 <a href="https://www.atlassian.com/software/jira">  <img src="/assets/Jira_Logo.svg.png" alt="cplusplus" width="100" height="70" style="max-width: 100%;"></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamgerges575&layout=compact)
 
 
 <!--
