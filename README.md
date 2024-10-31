@@ -1,6 +1,6 @@
 ### about me  
 hello, I am a student at faculty of Engineering ,alexandria university . 
-### intersts
+### interests
 - Problem solving
 - Database design
 
