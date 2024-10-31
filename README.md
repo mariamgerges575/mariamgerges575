@@ -3,7 +3,6 @@ hello, I am a student at faculty of Engineering ,alexandria university .
 ### intersts
 - Problem solving
 - Database design
-- System design
 
 ### Languages and Tools:
 <p align="center">
